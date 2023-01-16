@@ -17,10 +17,10 @@
   },
   "homepage": "https://github.com/JorgenPhi/webm2mp4#readme",
   "dependencies": {
-    "dotenv": "^5.0.1",
-    "fluent-ffmpeg": "^2.1.2",
-    "node-telegram-bot-api": "^0.30.0",
-    "prettysize": "^1.1.0",
+    "dotenv": "latest",
+    "fluent-ffmpeg": "latest",
+    "node-telegram-bot-api": "latest",
+    "prettysize": "latest",
     "request": "latest"
   }
 }
